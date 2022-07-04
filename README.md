@@ -61,7 +61,7 @@ Next, drag your games bottle folder directly into the terminal prompt, in my exa
 <hr>
 
 Next, you will be prompted to find the game's .exe. Locate your games ".exe" within the "drive_c" folder and dag that ".exe" over to the terminal prompt as so. You can now press enter again to complete Gshade install.<br>
-<img src="/gh images/the_sims2.png"></a><b> (Sims 4 users use the "TS4_x64.exe" file)</b></p>
+<img src="/gh images/the_sims2.png"></a><b> (Sims 4 users use the "TS4_x64.exe" file, its should be inside the Sims 4 folder inside Games/Bin)</b></p>
 
 <img src="/gh images/exe.png"></a> </p>
 
