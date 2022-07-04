@@ -55,12 +55,12 @@ Here is an example of my Crossover bottle (Custom Wine Mac Game):
 
 <hr>
 
-Next, copy your games bottle folder directly into the terminal prompt, in my example the "Custom Wine Mac Game" bottle folder. This will complete the folder path automatically for you. You can then press enter. <br><img src="/gh images/the_sims2.png"></a><b> (Sims 4 players bottle should be called "Origin" if you installed the game with Origin launcher)</b></p>
+Next, drag your games bottle folder directly into the terminal prompt, in my example the "Custom Wine Mac Game" bottle folder. This will complete the folder path automatically for you. You can then press enter. <br><img src="/gh images/the_sims2.png"></a><b> (Sims 4 players bottle should be called "Origin" if you installed the game with Origin launcher)</b></p>
 <img src="/gh images/drivecpath.png"></a> </p>
 
 <hr>
 
-Next, you will be prompted to find the game's .exe. Locate your games ".exe" within the "drive_c" folder and copy that ".exe" over to the terminal prompt as so. You can now press enter again to complete Gshade install.<br>
+Next, you will be prompted to find the game's .exe. Locate your games ".exe" within the "drive_c" folder and dag that ".exe" over to the terminal prompt as so. You can now press enter again to complete Gshade install.<br>
 <img src="/gh images/the_sims2.png"></a><b> (Sims 4 users use the "TS4_x64.exe" file)</b></p>
 
 <img src="/gh images/exe.png"></a> </p>
