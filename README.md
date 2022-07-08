@@ -134,4 +134,4 @@ Inside Crossover, make sure <b>"DXVK backend for dx11"</b> is turned OFF!<br><br
 Gshade: https://gposers.com/gshade <br>
 Eorn: https://github.com/HereInPlainSight/ for his Linux script<br>
 Marzent: https://github.com/marzent for his PR's and making Gshade more Mac friendly<br>
-Indriana: https://www.youtube.com/c/Indriana-sims for her wonderful tutorial sims 4 setup guide.
+Indriana: https://www.youtube.com/c/Indriana-sims for her wonderful tutorial Sims 4 setup guide.
