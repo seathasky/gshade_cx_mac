@@ -18,7 +18,7 @@ Support inside the <b>XIV on Mac</B> discord in #support-gshade text channel: ht
 <div align="center"> <a href="https://www.youtube.com/c/Indriana-sims" </a>
 
 
-[![Sims4TutroialbyIndriana](https://raw.githubusercontent.com/seathasky/gshade_cx_mac/main/gh%20images/indrianatTN.png)](https://www.youtube.com/watch?v=rs_lHlIQHqw "Video showcasing mod support on Mac")</div>
+[![Sims4TutroialbyIndriana](https://raw.githubusercontent.com/seathasky/gshade_cx_mac/main/gh%20images/indrianatTN.png)](https://www.youtube.com/watch?v=58McMpgNNIM "Video showcasing mod support on Mac")</div>
 
 <img src="/gh images/othergames.png"></a> </p>
 
