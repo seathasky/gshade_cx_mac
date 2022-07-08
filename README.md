@@ -6,11 +6,22 @@ I've added additional steps for <b>Sims 4 players</b>, please pay attention for 
 - Latest Mac Crossover installed (download Mac CX here: https://www.codeweavers.com/)<br>
 - A working Windows 64-bit executable game within Mac Crossover that uses DirectX 9 or 11. <br>
 - Knowledge of working directories inside MacOS.<br>
-<hr>
-<br>
-<img src="/gh images/1sims4p.png"></a> </p>
+
 <hr>
 Support inside the <b>XIV on Mac</B> discord in #support-gshade text channel: https://xivmac.com/discord
+<hr>
+
+
+<br>
+<img src="/gh images/newsims.png"></a> </p>
+
+<div align="center"> <a href="https://www.youtube.com/c/Indriana-sims" </a>
+
+
+[![Sims4TutroialbyIndriana](https://raw.githubusercontent.com/seathasky/gshade_cx_mac/main/gh%20images/indrianatTN.png)](https://www.youtube.com/watch?v=rs_lHlIQHqw "Video showcasing mod support on Mac")</div>
+
+<img src="/gh images/othergames.png"></a> </p>
+
 <hr>
 
 <h1>Start here to setup Gshade:</h1>
@@ -120,6 +131,7 @@ Inside Crossover, make sure <b>"DXVK backend for dx11"</b> is turned OFF!<br><br
 <hr>
 
 <b>Thanks to:</b><br> 
-https://gposers.com/gshade <br>
-https://github.com/HereInPlainSight/ for his Linux script<br>
-https://github.com/marzent for his PR's and making Gshade more Mac friendly.
+Gshade: https://gposers.com/gshade <br>
+Eorn: https://github.com/HereInPlainSight/ for his Linux script<br>
+Marzent: https://github.com/marzent for his PR's and making Gshade more Mac friendly<br>
+Indriana: https://www.youtube.com/c/Indriana-sims for her wonderful tutorial video of this guide for Sims 4 players.
