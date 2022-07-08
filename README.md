@@ -14,17 +14,16 @@ Support inside the <b>XIV on Mac</B> discord in #support-gshade text channel: ht
 
 <br>
 <img src="/gh images/newsims.png"></a> </p>
+<img src="/gh images/othergames2.png"></a> </p>
 
 <div align="center"> <a href="https://www.youtube.com/c/Indriana-sims" </a>
 
 
 [![Sims4TutroialbyIndriana](https://raw.githubusercontent.com/seathasky/gshade_cx_mac/main/gh%20images/indrianatTN.png)](https://www.youtube.com/watch?v=58McMpgNNIM "Video showcasing mod support on Mac")</div>
 
-<img src="/gh images/othergames.png"></a> </p>
-
 <hr>
-
-<h1>Start here to setup Gshade:</h1>
+<br>
+<img src="/gh images/start.png"></a> </p>
 
 Choose one of 2 Download options:<br>
 1)  <b>(RECOMMENDED)</b> Download/clone this github<br>
